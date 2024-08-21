@@ -56,6 +56,5 @@ Java SDK: Ensure you have Java Development Kit (JDK) installed to compile and ru
 
 **Notes**
 
-Make sure to update file paths if necessary (e.g., the path to newAccounts.csv).
-
-The BankingSystemUsingCSV and BasicBankingSystem files are primarily for testing and demonstration purposes.
+- Make sure to update file paths if necessary (e.g., the path to newAccounts.csv).
+- The BankingSystemUsingCSV and BasicBankingSystem files are primarily for testing and demonstration purposes.
