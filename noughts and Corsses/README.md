@@ -1,7 +1,3 @@
-Here's a README file for your Noughts and Crosses (Tic-Tac-Toe) project:
-
----
-
 # Noughts and Crosses (Tic-Tac-Toe) Game
 
 ## Overview
