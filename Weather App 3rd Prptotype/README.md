@@ -2,7 +2,7 @@
 
 **Overview**
 
-This weather app allows users to check the current weather and view historical weather data for the past 7 days for any city. The app fetches weather data from the OpenWeather API and stores it in a database for retrieval and display.
+This weather app allows users to check the current weather and view historical weather data for the past 7 days for any city. The app fetches weather data from the OpenWeather API and stores it in a database for retrieval and display.Additionally, it uses local storage to cache weather data for quicker access.
 
 **Files**
 
