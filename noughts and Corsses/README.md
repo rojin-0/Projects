@@ -47,11 +47,6 @@ This project is a simple implementation of the classic Tic-Tac-Toe game, also kn
 
 - Ensure that `leaderboard-2.txt` is present in the same directory as the Python files for score saving and loading functionality to work correctly.
 - The game board is initialized with numbers representing each cell, which will be replaced by 'X' or 'O' during gameplay.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to tweak it if needed!
