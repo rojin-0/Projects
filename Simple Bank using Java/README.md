@@ -14,47 +14,47 @@ BasicBankingSystem: A basic console-based example showing fundamental banking op
 
 1. BankGUI.java
    
-Description: Provides a graphical user interface to manage bank accounts.
+   Description: Provides a graphical user interface to manage bank accounts.
 
-  **Features:**
-  - View all accounts
-  - Deposit funds
-  - Withdraw funds
-  - Transfer funds between accounts
+     **Features:**
+     - View all accounts
+     - Deposit funds
+     - Withdraw funds
+     - Transfer funds between accounts
 
 2. BankingSystemUsingCSV.java
-Description: Demonstrates reading account information from a CSV file and performing operations.
+   Description: Demonstrates reading account information from a CSV file and performing operations.
 
-  **Features:**
-  - Read account data from newAccounts.csv
-  - Perform deposit, withdrawal, and transfer operations
+     **Features:**
+     - Read account data from newAccounts.csv
+     - Perform deposit, withdrawal, and transfer operations
     
 3. BasicBankingSystem.java
-Description: Shows basic banking operations with predefined accounts.
+   Description: Shows basic banking operations with predefined accounts.
 
-  **Features:**
-  - Print account balances
-  - Perform deposit and withdrawal operations
-    
+     **Features:**
+     - Print account balances
+     - Perform deposit and withdrawal operations
+       
 4. Account.java, Customer.java, Transaction.java
    
-Description: Core classes for the banking system.
+   Description: Core classes for the banking system.
 
-Classes:
+   Classes:
 
-Account: Represents a bank account with methods for deposit, withdrawal, and balance retrieval.
-Customer: Represents a customer with first and last names.
-Transaction: Handles money transfers between accounts.
-ReadAccounts: Utility class for reading account information from a CSV file.
+   Account: Represents a bank account with methods for deposit, withdrawal, and balance retrieval.
+   Customer: Represents a customer with first and last names.
+   Transaction: Handles money transfers between accounts.
+   ReadAccounts: Utility class for reading account information from a CSV file.
 
 **How to Run**
 - Use Eclipse and run the BankGUI.java file inside the Assessment.
   
-Dependencies
+**Dependencies**
 
 Java SDK: Ensure you have Java Development Kit (JDK) installed to compile and run the project.
 
-Notes
+**Notes**
 
 Make sure to update file paths if necessary (e.g., the path to newAccounts.csv).
 
